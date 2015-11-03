@@ -34,13 +34,13 @@ public class RendererLayerEditor : Editor
 
         for (int i = 0; i<l_particleSystems.Length;i++) //here we loads all renderers to our renderersarray
         {
-            l_renderers[i] = l_particleSystems[i].renderer;
+//            l_renderers[i] = l_particleSystems[i].renderer;
         }
 
         for (int i = 0; i<sortingLayerNames.Length;i++) //here we initialize our popupMenuIndex with the current Sort Layer Name
         {
-            if (sortingLayerNames[i] == l_particleSystems[0].renderer.sortingLayerName)
-                popupMenuIndex = i;
+//            if (sortingLayerNames[i] == l_particleSystems[0].renderer.sortingLayerName)
+  //              popupMenuIndex = i;
         }
     }
 

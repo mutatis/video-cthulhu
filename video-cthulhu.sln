@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "video-cthulhu.CSharp", "video-cthulhu.CSharp.csproj", "{216E48D1-F628-6307-B8E3-F890E73CF657}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "video-cthulhu.CSharp.Editor", "video-cthulhu.CSharp.Editor.csproj", "{0502B4E7-65DB-2325-425D-2B536A4408C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{216E48D1-F628-6307-B8E3-F890E73CF657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{216E48D1-F628-6307-B8E3-F890E73CF657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{216E48D1-F628-6307-B8E3-F890E73CF657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{216E48D1-F628-6307-B8E3-F890E73CF657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0502B4E7-65DB-2325-425D-2B536A4408C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0502B4E7-65DB-2325-425D-2B536A4408C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0502B4E7-65DB-2325-425D-2B536A4408C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0502B4E7-65DB-2325-425D-2B536A4408C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
